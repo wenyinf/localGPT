@@ -1,0 +1,573 @@
+area_project,line,line_sub,usecase,type,digital_lever
+Maintenance,maintenance technician,shadowing_0,"""live solving"" for line support's paperwork",Local Idea,Digital Ways of Working
+Large Liquid MFG,MUV,MUV,#8 Fitration Batch Size Increase,Local Idea,Other / Analogue
+Dry Part (Auto),Piggyback,shadowing_0,(Kaizen) Air Knocker on Powder Discharger Pipe,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,(Kaizen) Digital Mapping of Material Movements in EB,Local Idea,Advanced Analytics
+Large Liquid MFG,KO Batching (BIG),process_variability,(Kaizen) Exploration of Existing Tools for Material Transfer,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,OEE top 1,(Kaizen) Improving Uptime of eCapper in Serac 8HD Filler,Local Idea,Advanced Analytics
+Large Liquid MFG,KO Batching (BIG),shadowing_0,"(Kaizen) Installation of Rotary Jet Head, Process Mapping & Data Analysis to Optimize CIP",Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,shadowing_0,(Kaizen) Larger Label Plates + Print and Apply for IBC (Fiege Filler),Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,shadowing_0,(Kaizen) Platform Lifter to Transfer Empty IBC onto Fiege Line,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,KO Batching (BIG),shadowing_0,(Kaizen) Reduction of Weight Verification from Daily to Weekly,Local Idea,Advanced Analytics
+Dry Part (Auto),Piggyback,shadowing_0,(Kaizen) Replication of Iris Valve from FFS for Supersack Dumping,Local Idea,Other / Analogue
+Large Liquid MFG,KO Batching (BIG),shadowing_0,(Kaizen) Replication of Lab Density Meter into Production for Sample Injection,Local Idea,Other / Analogue
+Liquid Kitchen,Flexi Filling,shadowing_0,(Kaizen) Tools for Manual Additional of Ingredient into Mobile Tank,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Filling Liquid Part Manufacturing 01,OEE top 3,1 robot to feed the drum and palletizing for 2 lines,Local Idea,Advanced Production Method and Material
+Maintenance,Please Select,shadowing_0,2 points of internet access to the plant,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,BB Room 10KL tank1,OEE top 1,34 mixing cooling system extension to BB Room,Local Idea,Other / Analogue
+Maintenance,Maintenance,Process,3D Printing of Palletiser Spare Parts,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Process,3d spare part printing (additive manufacturing),Local Idea,Advanced Production Method and Material
+Maintenance,Quality Lab,Root Cause Process,Aa for water usage and treatment,Local Idea,Advanced Analytics
+Others / Multiple Areas,quality lab_technician,dilo,Aa sle toolkit,Local Idea,Advanced Analytics
+Warehouse,Warehouse,Process,Activate loading dock 3 near TPS B3 to shortening transport time,Local Idea,Digital Ways of Working
+Warehouse,warehouse material flow 1,material flow 1,Activated dedicated new area for staging (Near Flexicon),Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Serac 8h,OEE top 2,Add more lgvs,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Combi L2,OEE top 1,Add more lgvs,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Add more lgvs,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,Additional 8 heads filling line for 18.5l drum,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Manual Station,shadowing_3,Additional collischan machine for colour room,Local Idea,Advanced Production Method and Material
+Maintenance,SKU,shadowing_0,Additional filler head on line 1,Local Idea,Advanced Production Method and Material
+Maintenance,Tank #5,shadowing_0,Additional homogenizer,Local Idea,Other / Analogue
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Adjustable platform for batching tanks,Local Idea,Other / Analogue
+Others / Multiple Areas,scheduling,scheduling,Adoption of Dynamic Scheduling,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,scheduling,scheduling,Adoption of IBP - Supply Planning,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,IT/OT,IT/OT_Process,Advance analytics For machine Parameters,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Process,Advanced analytics for wwtp digitalization,Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse technician,shadowing_0,Advanced Robotics for Mixed Palletisation in Picking Process,Local Idea,Advanced Production Method and Material
+Warehouse,Liquid 8HD Filling Line,shadowing_1,Agv application in packing & filler drum unloading,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Piggyback,OEE top 2,AGV for Material Delivery (Level 2),Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow,material flow,AGV for packaging supply,Local Idea,Advanced Production Method and Material
+Warehouse,Serac 20L Filler,IT/OT,Agv for receiving to asra,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,AGV Implementation,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 8HD,material flow,AGV Supply of Packaging Material to L1 Liquid Filling Areas,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Agv to move fg from palletizer to stagging area,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Process,AI analytics to determine min max spare part,Local Idea,Advanced Analytics
+Liquid Filling (Auto),MUV,MUV,Air Purging,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),1 TON FILLING ROOM,OEE top 1,Air purging system,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Alert monitoring,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Serac 8HD,OEE top 1,Analysis of Filling Weight Variation,Local Idea,Advanced Analytics
+Quality Lab,Quality Lab,Process,Analytical solution digital control,Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Hand Filled  Kitchen,OEE top 3,Andon dp lever hopper,Local Idea,Other / Analogue
+Dry Part (Manual),Manual Kitting,OEE top 2,AR Training Guides for New Hire,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,A-safe  sensor racks,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,IT/OT,IT/OT_Process,Asset Advisor Dry and Liquid Filling,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Auto),Dry Mix SKU Filling line,shadowing_3,Auto Box Former with Bottom Taping,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),ACME Filler,shadowing_0,"Auto cans depalletization, loading and Inspection.",Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Piggyback,OEE top 2,Auto Carton Box Sleeves Replenishment (POC),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_3,Auto carton forming and bag insertion,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Sprite Filling Room,OEE top 3,Auto clamping system for bison tank CIP,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),1 TON FILLING ROOM,shadowing_0,Auto clamping system for bison tank CIP,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,OEE top 1,Auto Exchanger for Stretch Wrapper (POC),Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Filling Liquid Part Manufacturing 02,OEE top 2,Auto filler process for LF02,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Piggyback,OEE top 2,Auto Gusset Roll Exchanger (POC),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_3,Auto palletizer,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Mix SKU Filling line,OEE top 2,Auto Preparation of PE bags and online labelling of PE bags at PE bags inserter (SKU Line),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Automate bag inserter,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),DRY SEMI-AUTO ROOM (K-Tron),shadowing_2,Automate bag inserter,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,OEE top 3,Automate Stretch Wrap Removal for KO Filling Line,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,Automated air purge during cip process,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Batching,shadowing_1,Automated air purge sequence to buildup pressure,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance PM technician,shadowing_0,Automated alert system for maintenance,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Manual Station,shadowing_3,Automated bag labeling with print and apply (color),Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Manual Station,shadowing_1,Automated bag labeling with print and apply (manual filling),Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Qoo,shadowing_0,Automated batch for liquid mixing and filling,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),CC Drums Liquid Filling,OEE top 1,Automated capper & torque systems,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Manual Station,shadowing_1,Automated checkweigher setup and verification from sap po download (manual filling),Local Idea,Digital Ways of Working
+Dry Part (Manual),Manual Station,shadowing_3,Automated checkwieigher setup and verification from sap po download (color),Local Idea,Digital Ways of Working
+Large Liquid MFG,Quality Lab,Process,Automated CIP system,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,Management System,Handover,Automated daily operation dashboard,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 1,shadowing_0,Automated Depalletizing and palletizing equipment,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Batching,shadowing_0,Automated gi/gr process,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,BB Batching,shadowing_0,Automated ingredient report for po,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Auto),Kitting Station,shadowing_1,Automated ingredient report for po,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 1,shadowing_0,Automated labeling Machine,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Automated LMPC to consider available ingredient stock,Local Idea,Digital Ways of Working
+Dry Part (Manual),Manual Station,shadowing_1,Automated manual scooping and sealing,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual WIP Filling Line,OEE top 1,Automated recipe load (checkweigher),Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Automated Spare Parts Storage System,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Automated stock projection,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance technician,dilo,Automated water sampling,Local Idea,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Automated WH Projection & Occupancy report,Local Idea,Digital Ways of Working
+Others / Multiple Areas,scheduling,scheduling,Automated WOS report,Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Automatic bag inserter,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),CC Drums Liquid Filling,OEE top 1,Automatic density monitor (on-line release),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Color,shadowing_0,Automatic dry parts fillers parameters loading,Local Idea,Advanced Analytics
+Quality Lab,Quality Lab,Process,Automatic ingredients labels,Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Automatic Labeler,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),DRY SEMI-AUTO ROOM (K-Tron),shadowing_2,Automatic Labeler,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Process,Automatic labelling for finished products coming from production,Local Idea,Digital Ways of Working
+Large Liquid MFG,S Sab E 3&4,shadowing_1,Automatic Manifold,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance technician,dilo,Automatic measurement tool for Maintenance Plan follow up,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Twin Head Serac,OEE top 1,Automatic plugger and capper for twin head line,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Hand Filled  Kitchen,OEE top 3,Automatic rejection - checkweighers,Local Idea,Other / Analogue
+Dry Part (Auto),Piggyback,material flow 1,Automatic Replenishment of High Runner Ingredients,Local Idea,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Automatic scan materials control,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,Automating Replenishment of High Runner Packaging Material in EB with AGV,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_1,Automating Warehouse Incoming Shipment,Lighthouse,Advanced Production Method and Material
+Large Liquid MFG,MUV,MUV,"Avoid CCP1 and CCP2 Remnant Handling in IBC containers,",Local Idea,Other / Analogue
+Maintenance,Maintenance,Process,Bec sop advisor,Local Idea,Digital Ways of Working
+Dry Part (Auto),FFS 3H,shadowing_0,Big Bag check scanner,Local Idea,Digital Ways of Working
+Dry Part (Auto),FFS 3H,shadowing_0,Big bag replace alarm,Local Idea,Other / Analogue
+Dry Part (Auto),Combi L2,shadowing_0,Bin to box,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Kitting Station,shadowing_1,Black bin tracability (manual kitting),Local Idea,Digital Ways of Working
+Dry Part (Auto),Kitting Station,OEE top 3,Black bin tracability (piggyback kitting),Local Idea,Digital Ways of Working
+Others / Multiple Areas,scheduling,scheduling,Block report digitalization,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance manager,dilo,Bms implementation (water /steam/electricity/hvac/hsd/ldo),Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Box pusher modification,Local Idea,Other / Analogue
+Maintenance,Maintenance,Breakdown Downtime,"Breakdown elimination focus on d3107,d3109,f3125(d3106）",Local Idea,Other / Analogue
+Maintenance,Maintenance,Breakdown Occurence,Breakdown Tracking for Facilities,Local Idea,Digital Management Tools & Connectivity
+Maintenance,IT/OT,IT/OT_System,Building Management System,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Bulk storage tank monitoring system,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Process,Calibration/verification scales lab,Local Idea,Digital Ways of Working
+Maintenance,Dry Mix SKU Filling line,OEE top 2,Capacity Enhancement for HVAC.,Local Idea,Other / Analogue
+Dry Part (Auto),Kitting Station,shadowing_1,Carton weight uniformity,Local Idea,Other / Analogue
+Large Liquid MFG,S Sab E 3&4,OEE top 2,Caustic soda consumption,Lighthouse,Advanced Analytics
+Maintenance,Maintenance,Breakdown Occurence,Central Portal for Engineering Request,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,Centralized Maintenance System,Local Idea,Digital Ways of Working
+Others / Multiple Areas,Please Select,OEE top 2,Centralized Recipe Control,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Liquid Processing,shadowing_0,"Challenge the process parameter check in production: purpose, reason",Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Breakdown Occurence,Change spare part replacment cycle,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_1,Change the clamp system to ease the tightening step,Local Idea,Other / Analogue
+Warehouse,Warehouse,Process,Change vendor for WH Transfer between CCI WH & Ext WH-Horizon 1A,Local Idea,Other / Analogue
+Dry Part (Manual),Dry Hand Filled  Kitchen,OEE top 1,Changeover optimization for dry parts,Local Idea,Advanced Analytics
+Large Liquid MFG,Liquid Processing,shadowing_1,Check to PK why they can perform only simple blend,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 1,OEE top 1,CIP Alerting System (CIPAS),Lighthouse,Advanced Production Method and Material
+Large Liquid MFG,BB Room 10KL tank1,OEE top 1,CIP Evaluation for Emulsion Based Products,Local Idea,Advanced Analytics
+Dry Part (Auto),Piggyback,OEE top 1,CIP for Dry parts (Dry Blow Down Only) (POC),Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Filling Dry Part Manufacturing 02,OEE top 1,Close loop system to reduce the water as simple as making box to do scooping (like baby incubator),Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Cobot for beverage prep,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Cobot for carton forming and pick and place,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Beverage Base Liquid Filling,OEE top 2,Cobot packaging material supply lp,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Kitting Station,OEE top 3,Cobots for ingredient picking and vision inspection enabled carton sealing,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Manual Kitting,OEE top 2,Cobots for Kitting,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Piggyback,OEE top 1,Cobots for WIP kitting,Local Idea,Advanced Production Method and Material
+Warehouse,BB Room 10KL tank1,OEE top 1,Coke Room Area Unlock for Mixing Operations,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,Colaborative problem solving,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Cold Store Racking System Modification,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,Collaborative Platform for RCA and CAPA,Local Idea,Digital Ways of Working
+Dry Part (Auto),Combi L1,OEE top 1,Combi pick and place,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Mix SKU Filling line,shadowing_0,Compliance / GMP requirements related to material handling,Local Idea,Other / Analogue
+Quality Lab,quality lab_analyst,shadowing_0,Compusense integration with sap,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Computerized Maintenance Planning Tool,Local Idea,Digital Ways of Working
+Maintenance,Serac 8HD,dilo,Condition Based Monitoring for High Runner Old System,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Breakdown Occurence,Conditions based maintenance for BB Agitator,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Breakdown Occurence,Conditions based maintenance for BB Pumps,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Breakdown Occurence,Conditions based maintenance for CC agitator,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Breakdown Occurence,Conditions based maintenance for CC pumps,Local Idea,Advanced Analytics
+Maintenance,maintenance PM technician,shadowing_0,Conditions based maitenance for sealers,Local Idea,Advanced Analytics
+Quality Lab,quality lab_technician,shadowing_0,Continuos monitoring of raw and treated water.,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Root Cause Process,Continuous Improvement Tool- QFS Near Miss Reporting,Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Manual filling,shadowing_1,Continuous WIP Sealing Machines,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Filling Liquid Part Manufacturing 02,OEE top 1,COP machine,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,IT/OT,IT/OT_System,CPS OEE SPC - Global Strategy,Lighthouse,Digital Management Tools & Connectivity
+Others / Multiple Areas,Filling Dry Part Manufacturing 01,OEE top 2,"Cross department workshop QSE Prod P&L: sample readiness, ingredient released, label readiness, production rate, planning accuracy",Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,"Dashboard for notification on incoming receipts, production plan and dispatch plan",Local Idea,Digital Ways of Working
+Dry Part (Auto),Filling Dry Part Manufacturing 01,dilo,Dashboard of performance (decide the KPI to be appeared),Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse material flow 1,material flow 1,Data Analysis of AGV Movement,Local Idea,Advanced Analytics
+Others / Multiple Areas,Bases de bebidas,dilo,Data capture automation,Local Idea,Digital Ways of Working
+Dry Part (Auto),Color,shadowing_0,DCOL - Alarm system for bag inserter machine,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Auto),Color,shadowing_0,DCOL - Automatic bag sealer for color,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Color,dilo,DCOL - Weight control for supersack dosing,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Batching,shadowing_0,Deaeration system to reduce waiting time required,Local Idea,Other / Analogue
+Large Liquid MFG,Qoo,shadowing_0,Debottleneck the burble process,Local Idea,Other / Analogue
+Large Liquid MFG,BB Room 10KL tank1,shadowing_4,Dedicated 3/4 Mix Tanks for Coke Manufacturing,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance PM technician,shadowing_1,Dedicated Feeder for Plant,Local Idea,Other / Analogue
+Others / Multiple Areas,Warehouse,Process,Delivery note Manual Signatures ( Sales document),Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Deployment of Digital Standard Form for Lab Equipment Verification,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Deployment of Power Automate for Lab Calibration and Lab Consumables Stock Control,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Dry Manual WIP Filling Line,OEE top 1,Develop changeover metrics,Local Idea,Other / Analogue
+Dry Part (Auto),Dry Multi-head Filling Line,OEE top 1,Develop changeover metrics,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Develop digital tool for calibration/verification,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Customer Complaint,Develop effective response process for customer complaints,Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse technician,shadowing_1,"Digital ""Tarja""",Local Idea,Digital Ways of Working
+Quality Lab,quality lab_manager,dilo,Digital dashboard for testing,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Breakdown Occurence,Digital FMEA for production and service machines,Local Idea,Digital Ways of Working
+Others / Multiple Areas,Management System,Department,Digital performance management,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_manager,dilo,Digital record for non-sap record sample testing,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance CM technician,shadowing_0,Digital recording tool for maintenance orders,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Process,Digital sampling control v2,Local Idea,Digital Ways of Working
+Quality Lab,quality lab_manager,dilo,Digital scheduling tool for lab manpower allocation,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Please Select,Process,Digital security guards checks,Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Multi-head Filling Line,OEE top 2,Digital smed for plan stop (daily),Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Multi-head Filling Line,OEE top 2,Digital smed for plan stop (weekly),Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Liquid 8HD Filling Line,shadowing_0,Digital standard forms,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,Digital standard forms,Local Idea,Digital Ways of Working
+Others / Multiple Areas,Please Select,dilo,Digital standard forms,Local Idea,Digital Ways of Working
+Others / Multiple Areas,IT/OT,IT/OT_Process,Digital Standard Forms (DSF),Local Idea,Digital Ways of Working
+Others / Multiple Areas,Quality Lab,Root Cause Process,"Digital standard forms (eslp area) for plant entry records (eg health declaration, visitor log etc.)",Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,Digital SWI for frequently failed asset,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Digitalization in temperature monitoring system,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance PM technician,shadowing_0,Digitalization of work permit system,Local Idea,Digital Ways of Working
+Others / Multiple Areas,IT/OT,IT/OT_System,Disaster Recovery,Local Idea,Other / Analogue
+Warehouse,Warehouse,Process,Dock management system  - c3 and sap s4 hanna,Local Idea,Digital Ways of Working
+Maintenance,Tank #5,shadowing_0,Double the filtration capacity for sprite,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Liquid Processing,shadowing_2,DPM & Dashboard to know the work order progress,Local Idea,Digital Ways of Working
+Dry Part (Auto),Piggyback,shadowing_0,DPM (Dry Part Auto),Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Manual Kitting,shadowing_0,DPM (Dry Part Manual),Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,KO Batching (BIG),process_variability,DPM (Large Liquid MFG),Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 8HD,shadowing_0,DPM (Liquid Filling Auto),Local Idea,Digital Management Tools & Connectivity
+Liquid Kitchen,Flexi Filling,shadowing_0,DPM (Liquid Kitchen),Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,scheduling,scheduling,DPM (Scheduling),Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse manager,dilo,DPM (Warehouse),Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Breakdown Occurence,Drone for Inspection for Facilities and ASRS,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_0,Drum handler utilization,Local Idea,Advanced Production Method and Material
+Maintenance,Filling Dry Part Manufacturing 01,OEE top 2,Dry Part Reliability Task Force (Maintenance),Local Idea,Advanced Analytics
+Dry Part (Manual),Manual filler,shadowing_0,Dry parts room traceability project,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,DSF for Warehouse Forms,Local Idea,Digital Ways of Working
+Others / Multiple Areas,Filling Dry Part Manufacturing 02,shadowing_2,DSF to eliminate the paper,Local Idea,Digital Ways of Working
+Dry Part (Auto),Color,dilo,DWHI - DCOL - Automatic palletizer for white and color rooms,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Color,shadowing_0,DWHI DCOL - New box maker system with bag inserter,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Dynamic Scheduling,Local Idea,Digital Ways of Working
+Warehouse,scheduling,scheduling,Dynamic Scheduling,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance CM technician,shadowing_0,Dynamic Scheduling & Prometheus Agenda,Local Idea,Digital Ways of Working
+Others / Multiple Areas,scheduling,scheduling,Dynamic Scheduling S/4H Enhancement,Local Idea,Digital Ways of Working
+Others / Multiple Areas,scheduling,scheduling,Dynamic Scheduling with APS,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Process,Dynamic scheduling/prometheus integration,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Beverage Base Room,process_variability,Edum phase ii aa /aa for maintenance,Local Idea,Digital Ways of Working
+Quality Lab,quality lab_technician,shadowing_0,Efforts integration for sample collection,Local Idea,Other / Analogue
+Maintenance,Maintenance,Process,E-form for Maintenance Work Order Execution with Prometheus,Local Idea,Digital Ways of Working
+Please Select,IT/OT-test,IT/OT_Process,E-kanban,Local Idea,Please Select
+Dry Part (Auto),SKU,OEE top 2,Eliminate masking label,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_0,Eliminate the writing,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Eliminate waiting time for loading at CDD loose pallet shipment,Local Idea,Other / Analogue
+Others / Multiple Areas,MUV,MUV,Enable Visibility of MUV to Drive Performance Cascade,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality ehs_specialist,dilo,Energy Management System Dashboard,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Breakdown Occurence,Energy saving initiatives,Local Idea,Other / Analogue
+Dry Part (Auto),Dry Automate Filling Area Grande,OEE top 3,"Equipment drying process - post cleaning (sop advisor, dum)",Local Idea,Other / Analogue
+Liquid Kitchen,Glaceau Filling Room,OEE top 3,Exclusive Filler for 5L  (imported from China Jerrycan PKG),Local Idea,Other / Analogue
+Others / Multiple Areas,scheduling,scheduling,Existing aps configuration improve,Local Idea,Advanced Analytics
+Others / Multiple Areas,IT/OT,IT/OT_System,Explore shopfloor wifi,Local Idea,Other / Analogue
+Dry Part (Auto),FFS,dilo,FFS - line automation,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Filling parameter setting process optimization,Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Multi-head Filling Line,shadowing_1,Filling technician job scope redesign,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_4,Find an equipment to help manual dumping of 25 kgs on mezzanine,Local Idea,Other / Analogue
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Fixed clamp,Local Idea,Other / Analogue
+Large Liquid MFG,S Sab E 3&4,shadowing_1,Flasblender Replacement,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Flexi Filling,shadowing_0,Flexible Mobile Cobot Cartoning and Palletising Station for Liquid Kitchen,Local Idea,Advanced Production Method and Material
+Maintenance,warehouse technician,shadowing_1,Forklift management system,Local Idea,Other / Analogue
+Warehouse,warehouse manager,dilo,Forklift Management System (Smartlift),Lighthouse,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Forklift track with linde connect and linde safety,Local Idea,Advanced Analytics
+Warehouse,Warehouse,Process,Forklifts with lithium battery,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,dilo,Fully calculate OEE by MII,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Filling Liquid Part Manufacturing 01,OEE top 3,Get the check weigher data from MII,Local Idea,Digital Ways of Working
+Quality Lab,scheduling,scheduling,Global LIMS use case,Local Idea,Digital Ways of Working
+Others / Multiple Areas,Management System,Department,Global OEE Solution for Department Meetings,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Management System,Handover,Global OEE Solution for Shift handover Meetings,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,BB Room 10KL tank1,shadowing_4,High Flow Rate Inline Gear Pumps for Material Transfer,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance technician,dilo,Holo-lens,Local Idea,Digital Ways of Working
+Large Liquid MFG,BB Room 10KL tank1,shadowing_0,Homogenizer Safety Interlocking,Local Idea,Other / Analogue
+Liquid Filling (Auto),Fresca Liquid Filling,OEE top 3,Ht adaptation for fresca/vfc formulations,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,Management System,Handover,Improve daily operation meeting,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 1,shadowing_0,Improve draining process,Local Idea,Other / Analogue
+Liquid Filling (Auto),Filling Liquid Part Manufacturing 01,OEE top 3,Improve filling accuracy in LF01,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Liquid Processing,shadowing_0,Improve line connection from hose to piping system,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Customer Complaint,"Improve packging quality issue (incl, inner seal, cap tourque)",Local Idea,Advanced Production Method and Material
+Quality Lab,Warehouse,Process,Improve quality of product labels,Local Idea,Other / Analogue
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 3,Improve the filling speed for coke products,Local Idea,Advanced Analytics
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_3,Improve the reliability of the sealer so that it will not produce bad quality of sealing and trigger rework and reset in sealing process,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Improve work flow and layout of lab,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,Improvement in CAPA Management (Power Automate),Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse material flow 1,material flow 1,Improving ASRS Infeed Speed,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_0,Improving ASRS Traffic Flow for Pick and Pack Station,Local Idea,Advanced Analytics
+Others / Multiple Areas,Management System,Department,Include OEE in DPM tool - Large Liquid manufacturing,Lighthouse,Digital Management Tools & Connectivity
+Dry Part (Auto),Filling Dry Part Manufacturing 01,OEE top 3,Increase conveyor flexibility to the carton size so that auto Auger can be used,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Tank #5,shadowing_0,Increase pack size of liquid part ingredients,Local Idea,Advanced Production Method and Material
+Maintenance,Tank #5,shadowing_1,Increase tube heat exchanger capacity in new mix room,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Color,dilo,Ingredient control & visualization from hoppers,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Dry Mix SKU Filling line,OEE top 1,Ingredient Pack Size Standardization,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Inline chlorine meter,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,Serac 20L Filler,shadowing_0,Inline chlorine meter,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Process,In-line densimeters integrated to local network,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Inline density check on filling lines,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),quality lab_analyst,shadowing_0,Inline density meter,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,In-line density test and calibration,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,BB Batching,shadowing_1,Inline particle size analyzer,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,In-line particle size check,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Sprite Filling Room,OEE top 3,Inner and outer diameter increase for Filler,Local Idea,Other / Analogue
+Quality Lab,quality ehs_specialist,dilo,Inspect emergency shower by mobile app.,Local Idea,Digital Ways of Working
+Warehouse,warehouse technician,shadowing_4,"Install interlock sensor, Machine to be automatically off if people passing",Local Idea,Advanced Production Method and Material
+Quality Lab,quality lab_technician,shadowing_0,Install MS office to lab computer,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Install sampling tool cabinet near incoming area,Local Idea,Other / Analogue
+Liquid Filling (Auto),Filling Liquid Part Manufacturing 01,OEE top 3,Install the kicker if the weight is OOS,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance manager,dilo,Installation of heat pumps Load onto electricity,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,"Integrated Data Analytics and Process Traceability from MII, DSF, Sample Manager for RCA",Local Idea,Advanced Analytics
+Maintenance,maintenance technician,dilo,"Integrated monitoring system adding on CIP, Compressed air and HVAC",Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Root Cause Process,Integrated platform for RCA and CAPA,Local Idea,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Integrated WH Dashboard management system CCI-CCEP,Local Idea,Digital Ways of Working
+Maintenance,maintenance manager,dilo,Integrating Control Systems,Local Idea,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Internal transport track management,Local Idea,Digital Ways of Working
+Others / Multiple Areas,IT/OT,IT/OT_System,Introduction of EAM systems,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Manual Station,shadowing_3,Inventory tracking for ingredients (color),Local Idea,Digital Ways of Working
+Dry Part (Manual),Manual Station,shadowing_1,Inventory tracking for ingredients (manual filling),Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Kit size allocation for core product,Local Idea,Other / Analogue
+Liquid Filling (Auto),Serac 8HD,OEE top 3,KO Filling Line Speed Not Balanced,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Process,Lab consolidation,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Lab data analysis dashboard,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Lab environment control,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Process,Lab Equipment's Calibration Tracking Tool,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Process,Lab mobile devices,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Lab samples labels creation,Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Mix SKU Filling line,shadowing_0,Label Auto Print and Apply System for Cartons,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Mix SKU Filling line,shadowing_0,Label Auto Print and Apply System for PE Bags,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Labeller for small bag,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_0,Labels for spare parts creation,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Bases de bebidas,dilo,LB15 - Automatic bottle placing and capping,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac,OEE top 3,LBMS - Automatic bottle placing and capping,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_2,LGV for Freezer Picking / Replenishment process,Local Idea,Advanced Production Method and Material
+Quality Lab,Quality Lab,Process,Lims,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Lims,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_technician,shadowing_0,Lims lab management phase 1,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_analyst,shadowing_0,Lims system,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Filling Liquid Part Manufacturing 02,OEE top 3,Liquid Kitchen Reliability Task Force (Maintenance),Local Idea,Advanced Analytics
+Large Liquid MFG,Qoo,shadowing_0,Liquid mixing supersack auto-transportation,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Breakdown Occurence,Liquid part mto line automation,Local Idea,Advanced Production Method and Material
+Maintenance,Filling Liquid Part Manufacturing 01,OEE top 1,Liquid Part Reliability Task Force (Maintenance),Local Idea,Advanced Analytics
+Maintenance,Maintenance,Process,Live solving,Local Idea,Digital Ways of Working
+Large Liquid MFG,Sprite Mixing Room,OEE top 3,Load cell display adjustment,Local Idea,Other / Analogue
+Liquid Filling (Auto),Beverage Base Liquid Filling,OEE top 2,Lp second center upgrade,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance PM technician,shadowing_0,Maintenance cost reduction through advanced analytic,Local Idea,Advanced Analytics
+Maintenance,Maintenance,Process,Maintenance performance dashboard,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Maintenance Regime for Automation System,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Maintenance Request Portal,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Maintenance ticket pooling enhancement,Local Idea,Other / Analogue
+Liquid Filling (Auto),Filling Liquid Part Manufacturing 01,OEE top 3,Make the scale at the same level with floor,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,maintenance technician,dilo,Mandatory training videos on demand,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Manual Defacing of ingredients,Local Idea,Other / Analogue
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Manual filler design modification,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_0,Material receiving schedule improvement,Local Idea,Digital Ways of Working
+Large Liquid MFG,BB Room 10KL tank1,OEE top 1,Material stacker for placing IBC on auto tilting and transfer stand,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Room 10KL tank1,shadowing_4,MDSE 7X Pack Size Change,Local Idea,Other / Analogue
+Others / Multiple Areas,maintenance technician,dilo,Meeting effectiveness,Local Idea,Other / Analogue
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Mezzanine expansion,Local Idea,Other / Analogue
+Others / Multiple Areas,IT/OT,IT/OT_System,Migrating BizComm to MS Team Calling Solution,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,IT/OT,IT/OT_Process,Mii S4/H shop-floor integration,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Breakdown Occurence,Mileage-Based Optimisation of PM Activities,Local Idea,Advanced Analytics
+Warehouse,warehouse technician,shadowing_0,Mini asrs for staging area to improve retouch of picked pallets,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Missing ing & part shortages on-line report,Local Idea,Advanced Analytics
+Dry Part (Auto),Maintenance,Breakdown Occurence,Mobile label and masking machine to reduce the down time due to labeling and masking issue,Local Idea,Other / Analogue
+Liquid Kitchen,Flexi Batching,shadowing_0,Mobile Tank Tracking System,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Breakdown Occurence,Modification of Cap transfer conveyor to reduce downtime,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Modified sealer which is can be sealed 2 small bags,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,scheduling,scheduling,Monthly meeting/Training/PM calendar development,Local Idea,Other / Analogue
+Maintenance,Maintenance,Process,"Mtbf, mttr dashboard/report automated",Local Idea,Advanced Analytics
+Liquid Filling (Auto),Sprite Filling Room,shadowing_0,Multi way panel,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Muscle suit- Ingredient dumping assistant equipment,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,MUV,MUV,Muv Reduction,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_3,Negotiate the MoQ to be full pallet,Local Idea,Digital Ways of Working
+Large Liquid MFG,Qoo,shadowing_0,"New 20,000l mixing tank",Local Idea,Other / Analogue
+Liquid Kitchen,Liquid MTO,OEE top 1,New label printer and applicator for liquid mto line,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_1,New rfic equipment could reduce sampling testing time,Local Idea,Advanced Production Method and Material
+Maintenance,VFFS,shadowing_1,New vffs machine for wip production,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Automate Filling Area Grande,OEE top 2,Not stopping the line big area,Local Idea,Other / Analogue
+Dry Part (Auto),Piggyback,OEE top 3,OEE Dashboard (Dry Part Auto),Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Manual Kitting,OEE top 2,OEE Dashboard (Dry Part Manual),Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),KO Batching (BIG),process_variability,OEE Dashboard (Large Liquid MFG),Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Serac 8HD,shadowing_0,OEE Dashboard (Liquid Filling Auto),Local Idea,Digital Management Tools & Connectivity
+Liquid Kitchen,Flexi Filling,shadowing_0,OEE Dashboard (Liquid Kitchen),Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Management System,Handover,OEE Dashboard: Basic Troubleshooting,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Serac 8h,OEE top 1,Oee improvement projects (breaks and meetings reorganization),Local Idea,Advanced Analytics
+Dry Part (Auto),Combi L2,OEE top 2,Oee improvement projects (breaks and meetings reorganization),Local Idea,Advanced Analytics
+Dry Part (Auto),Combi L2,OEE top 3,Oee improvement projects (pcs and dynamic schedulling integration),Local Idea,Advanced Analytics
+Others / Multiple Areas,scheduling,scheduling,Oee improvement projects (pcs and dynamic schedulling integration),Local Idea,Advanced Analytics
+Liquid Filling (Auto),Serac 8h,OEE top 3,Oee improvement projects (pcs and dynamic schedulling integration),Local Idea,Advanced Analytics
+Others / Multiple Areas,scheduling,scheduling,One-window integration of supplier/forwarder/CCA,Local Idea,Digital Ways of Working
+Quality Lab,Please Select,dilo,Online Safety Work Permit Application,Local Idea,Digital Ways of Working
+Dry Part (Auto),DRY SEMI-AUTO ROOM (K-Tron),shadowing_2,Online sealer,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Online sealer,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Operator efficiency tracking,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),S Sab E 3&4,OEE top 2,Optimize CIP funtions,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Optimize current palletizing process by replacing plastic wrap to strapping band,Local Idea,Other / Analogue
+Maintenance,Maintenance,Breakdown Occurence,Optimize mixing tank scale verification,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Room 10KL tank1,shadowing_1,Pack Size Standardization for Oils,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Packaging feeding interval time optimization,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Customer Complaint,Packaging Lab,Local Idea,Other / Analogue
+Dry Part (Auto),FFS 3H,changeover,Packaging line for FFS 2H and 3H,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Multi-head Filling Line,shadowing_1,Packaging technician job scope redesign,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_3,Pakeo digital,Local Idea,Digital Ways of Working
+Warehouse,warehouse technician,shadowing_2,Pallet position availability recommendation tool,Local Idea,Advanced Analytics
+Liquid Filling (Auto),Rotary Serac,shadowing_1,Palletized receipt of empty drums,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Semi Auto Line,shadowing_0,Palletizer,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,Parallel filling for 8h and ibc,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Dry Multi-head Filling Line,dilo,Pi sheet auto check,Local Idea,Digital Ways of Working
+Dry Part (Auto),Combi L2,shadowing_0,Pick and place combi line,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8h,shadowing_0,Pigging system improvement,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Breakdown Occurence,Pigging system improvement,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,MUV,MUV,Pigging system improvement,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Beverage Base Room,shadowing_0,Pigging system improvement,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance PM technician,shadowing_0,Place toolbox and PPE,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,IT/OT,IT/OT_System,Plant SCADA,Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse technician,shadowing_1,Plastic Bins Storage (Supply Solid Lines),Local Idea,Other / Analogue
+Dry Part (Auto),Color,shadowing_0,Po loading and hmi control in filling rooms (part 1 - 2 rooms),Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),MTO,shadowing_0,"Pouch feeding, printing and counting system",Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Batching,shadowing_0,Pouring height adjustment for drum holder to pour direct to tank,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_0,Power app development for BB identification,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_2,Power automate during label creation. Ensure the system is reliable so that we can eliminate the process to validate to SAP,Local Idea,Digital Ways of Working
+Maintenance,maintenance technician,shadowing_0,Power automate in data entry steps for weekly cycle count,Local Idea,Digital Ways of Working
+Maintenance,Dry Mix SKU Filling line,OEE top 1,Power quality stabilization (Dry Parts),Local Idea,Other / Analogue
+Maintenance,ACME Filler,OEE top 2,Power quality stabilization (Liquid Filling),Local Idea,Other / Analogue
+Others / Multiple Areas,Maintenance,Process,Predictive maintenance for hvac system,Local Idea,Advanced Production Method and Material
+Quality Lab,quality lab_technician,shadowing_0,Prepack ingredient label recognition and system matching,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Prepare 1 rack dedicated for citric staging --> replicate to other material,Local Idea,Digital Ways of Working
+Dry Part (Manual),Filling Dry Part Manufacturing 02,OEE top 2,Prepare 1 spoon with targeted weight,Local Idea,Other / Analogue
+Large Liquid MFG,KO Batching (BIG),shadowing_0,Pre-picking Ingredients and Scheduling Release Prior to Batching Process,Local Idea,Digital Ways of Working
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Pressurized filler for small dose filling,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Sprite Filling Room,shadowing_0,Pressurized pump or reserve tank position up,Local Idea,Other / Analogue
+Maintenance,QSE,Root Cause Process,Preventive maintenance and calibration status dashboard for production and warehouse equipment,Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Hand Filled  Kitchen,OEE top 3,Print & apply labels wip,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Kitting Station,shadowing_1,Print and apply,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Print and apply,Local Idea,Advanced Production Method and Material
+Liquid Kitchen,Filling Liquid Part Manufacturing 02,shadowing_0,Print and apply,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_2,Print and apply,Local Idea,Other / Analogue
+Dry Part (Manual),Manual Kitting,OEE top 1,Print and Apply for FG (Manual and Piggyback Kitting),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Piggyback,OEE top 1,Print and Apply for FG (Piggyback Filling),Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 8HD,OEE top 2,Print and Apply for FG (Serac 8HD),Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Kitting Station,OEE top 3,Print and apply for labels to reduce first and last labels manual handling,Local Idea,Advanced Production Method and Material
+Warehouse,scheduling,scheduling,Production dashboard monitoring system,Local Idea,Digital Ways of Working
+Large Liquid MFG,scheduling,scheduling,Production resources - Real time visibility,Local Idea,Digital Management Tools & Connectivity
+Maintenance,IT/OT,IT/OT_Process,Project Contour,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_manager,dilo,Project Flow Roll-out,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Prometheus erp tools,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance PM technician,shadowing_0,Prometheus Implementation,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,Prometheus mobile,Local Idea,Digital Ways of Working
+Dry Part (Auto),Kitting Station,OEE top 3,Prometheus system as better reporting and analytics for equipment breakdown,Local Idea,Advanced Analytics
+Dry Part (Auto),Filling Dry Part Manufacturing 01,OEE top 1,Provide the cover to protect auger from water so no need to wrap by plastic,Local Idea,Other / Analogue
+Large Liquid MFG,Manufactura Coca-Cola,dilo,Pump control by batchelor automatic system,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,MUV,MUV,Pump RPM Increase,Local Idea,Other / Analogue
+Quality Lab,quality lab_manager,dilo,Qse kpi dashboard,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_technician,dilo,QSE Metrics & Meeting Dashboard,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Root Cause Process,Quality issue knowlege management,Local Idea,Digital Ways of Working
+Warehouse,warehouse material flow,material flow,Racks Analysis for AMB Storage,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Root Cause Process,RCA Application,Local Idea,Digital Ways of Working
+Quality Lab,quality ehs_specialist,dilo,Real-time and Digital Readings of Process Water Meters,Local Idea,Digital Ways of Working
+Maintenance,Tank #5,shadowing_0,Real-time cip status display board,Local Idea,Digital Ways of Working
+Dry Part (Auto),Dry Mix SKU Filling line,OEE top 1,Real-Time Data Logging and Reporting Dashboard (Dry parts),Local Idea,Advanced Analytics
+Quality Lab,quality ehs_specialist,dilo,Recommendation Engine for Near Miss Reporting Improvement,Local Idea,Advanced Analytics
+Dry Part (Auto),Color,shadowing_0,Recommendation for filler parameters based on historical data,Local Idea,Advanced Analytics
+Dry Part (Manual),Dry Manual WIP Filling Line,shadowing_0,Redesign the dumping room layout,Local Idea,Advanced Production Method and Material
+Maintenance,maintenance CM technician,shadowing_0,Redignostic for applying welding pipe instead of clamping,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,OEE top 2,Reduce filler speed loss while using new Auger,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Reduce micro testing time,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,IT/OT,IT/OT_System,Redundancy for Core and distribution Switch,Local Idea,Other / Analogue
+Liquid Kitchen,scheduling,scheduling,Re-evaluation of Batch Sizes for Slow Movers,Local Idea,Advanced Analytics
+Dry Part (Manual),Filling Dry Part Manufacturing 02,OEE top 2,"Relayout: check weigher position, conveyor installation, conveyor length",Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,Reliability and Maintenance Knowledge Training,Local Idea,Other / Analogue
+Large Liquid MFG,BB Room 10KL tank1,shadowing_4,Reliability of Liquid Mixing and Filling Control Systems,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),ACME Filler,shadowing_2,Reliable digital devices for manual torque verification,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Breakdown Occurence,Reliable sensor installation for Manual line 2,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),ACME Filler,shadowing_2,"Relocation of IBC filler With automatic capper, and digital torque monitoring",Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual Line 2,shadowing_0,Remnant label printer,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Remove additional verification process,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Liquid 8HD Filling Line,shadowing_0,Remove bottle cap torque verification,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Liquid Processing,shadowing_1,Remove the step to transfer the material to mixing tank (lactic acid),Local Idea,Other / Analogue
+Liquid Filling (Auto),Rotary Serac,OEE top 1,Replace old pallet truck with new one to increase speed and safety,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,Replacement from 20L drum to 1ton bison tank,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_3,Replicate the use case from SH to automate the pallet combining,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Retention samples labelling,Local Idea,Digital Ways of Working
+Warehouse,warehouse material flow 1,material flow 1,Returnable freight cost saving for pallets,Local Idea,Other / Analogue
+Large Liquid MFG,Serac 20L Filler,shadowing_0,Review preprinted label in print and apply to unleash speed,Local Idea,Other / Analogue
+Warehouse,Warehouse,Process,Rfid shipping tracking,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Process,Rfid tags for small equipment and engineering spares,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Liquid 8HD Filling Line,shadowing_2,Robot depalletizer & unscrambler of 18.5l drum for liquid filling area,Local Idea,Advanced Production Method and Material
+Maintenance,Maintenance,Breakdown Occurence,Robotic de stacker for liquid line jerry can,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,Quality Lab,Root Cause Process,Root cause analysis software,Local Idea,Digital Ways of Working
+Dry Part (Manual),Dry Manual Line 2,OEE top 1,SAC Gripper,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Sample Manager Implementation,Lighthouse,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Process,Sampling criteria for packaging material,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,SAP Task Force,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance PM technician,shadowing_0,Satellite spare part management,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_technician,shadowing_0,Scan barcode to complete the sample ID instead of manually input the information,Local Idea,Digital Ways of Working
+Liquid Kitchen,Liquid Flexi Filling,shadowing_0,Scheduling optimization to increase batch sizes to reduce remnant handling due to minimum batching qty,Local Idea,Advanced Analytics
+Warehouse,Warehouse,Process,See opportunity to move to online by negotiating to bottler,Local Idea,Digital Ways of Working
+Dry Part (Manual),DP Manual,shadowing_1,Semiautomatic filler for color wips,Local Idea,Advanced Production Method and Material
+Maintenance,DP Manual,shadowing_1,Semiautomatic filler for high packsize ingredients,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Serac 1,shadowing_0,Serac 1 replacement,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),ACME Filler,OEE top 1,Serac Filler Operational,Local Idea,Other / Analogue
+Others / Multiple Areas,IT/OT,IT/OT_Process,Seracs Migration Plan,Local Idea,Advanced Production Method and Material
+Others / Multiple Areas,IT/OT,IT/OT_System,Server room control system introduction,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 1,Setup & changeover reduction,Local Idea,Other / Analogue
+Dry Part (Auto),Piggyback,dilo,SG Dashboard Center (Dry Part Auto),Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,KO Batching (BIG),dilo,SG Dashboard Center (Large Liquid MFG),Local Idea,Digital Management Tools & Connectivity
+Quality Lab,quality lab_manager,dilo,SG Dashboard Center (Quality Lab),Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Root Cause Process,SG Dashboard Center (Quality Root Cause Analysis),Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,BB Room 10KL tank1,shadowing_2,Shear Powder Mixer,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,Shipment Fulfillment with AGV,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Room 10KL tank1,shadowing_0,Single Barcode Scanning - Smart PTU,Local Idea,Digital Ways of Working
+Liquid Kitchen,Glaceau Filling Room,shadowing_0,Single ingredient filling process improvement,Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Single test sample for density check,Local Idea,Other / Analogue
+Large Liquid MFG,BB Room 10KL tank1,shadowing_0,Smart handheld devices for barcode scanning,Local Idea,Digital Ways of Working
+Large Liquid MFG,S Sab E 3&4,shadowing_0,Smart ptu (prior to use),Lighthouse,Digital Ways of Working
+Large Liquid MFG,Sprite Mixing Room,OEE top 1,Smart ptu (prior to use),Lighthouse,Advanced Production Method and Material
+Large Liquid MFG,Manufactura Bases de bebidas,shadowing_0,Smart ptu (prior to use),Lighthouse,Digital Ways of Working
+Large Liquid MFG,Tank #5,shadowing_1,Smart ptu for mix room,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Breakdown Occurence,Smart sensor implementation for dry part and liquid line,Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Breakdown Occurence,Smart Sensors for Passenger and Cargo Lifts,Local Idea,Advanced Analytics
+Warehouse,Warehouse,Process,SMP - III (Warehouse Space Addition),Local Idea,Other / Analogue
+Quality Lab,Quality Lab,Process,Software for beverage recipes for sensory analysis.,Local Idea,Digital Ways of Working
+Maintenance,maintenance manager,dilo,Solar PV with battery(Implement),Local Idea,Other / Analogue
+Others / Multiple Areas,Combi L1,OEE top 3,SOP Advisor,Local Idea,Digital Ways of Working
+Dry Part (Auto),FFS 3H,OEE top 2,SOP Advisor,Local Idea,Digital Management Tools & Connectivity
+Others / Multiple Areas,Bases de bebidas,OEE top 3,Sop advisor (App from Liberia),Local Idea,Digital Ways of Working
+Maintenance,Maintenance,Process,Spare parts digital kanban,Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse technician,shadowing_0,Spare parts request,Local Idea,Digital Ways of Working
+Maintenance,IT/OT,IT/OT_Process,SPC OEE implementation,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Bases de bebidas,OEE top 3,Speed loss in low weight materials in serac filling room,Local Idea,Advanced Production Method and Material
+Dry Part (Manual),Dry Manual Line 2,OEE top 1,Stand alone Hoist,Local Idea,Other / Analogue
+Large Liquid MFG,BB Room 10KL tank1,OEE top 1,Stand-alone drum tilter for material transfer,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,scheduling,scheduling,Standard Production Capacity,Local Idea,Other / Analogue
+Dry Part (Manual),FFS 3H,shadowing_1,Standardize Film Change,Local Idea,Other / Analogue
+Maintenance,maintenance manager,dilo,Standardized Engineering Guidelines,Local Idea,Other / Analogue
+Maintenance,Maintenance,Process,Standardizing Facility Management,Local Idea,Other / Analogue
+Maintenance,Maintenance,Breakdown Occurence,Standby sub- assembly for all fill line discharge assembly to avoid the repetitive failure of cylinder and spring replacement,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Batching,shadowing_2,Supersack hoist queuing system,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_1,Supply FFS 2H,Local Idea,Other / Analogue
+Warehouse,warehouse technician,shadowing_0,Synchronize suppliers label and cps label system,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),Serac 20L Filler,shadowing_0,System events data collection for analytics,Local Idea,Digital Management Tools & Connectivity
+Warehouse,warehouse technician,shadowing_0,Tank receiving automated monitoring,Local Idea,Digital Ways of Working
+Others / Multiple Areas,IT/OT,IT/OT_System,Test Environment,Local Idea,Other / Analogue
+Dry Part (Manual),Filling Dry Part Manufacturing 02,OEE top 1,Tolling the colorant to 3rd party vendor (the 9 kg)--> RAMA chemical,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_0,Tools preparation and tools location,Local Idea,Other / Analogue
+Liquid Filling (Auto),Liquid 8HD Filling Line,OEE top 2,Tpm (total productive maintenance) to reduce unplanned stop,Local Idea,Other / Analogue
+Dry Part (Auto),Dry Multi-head Filling Line,OEE top 2,Tpm implementation to reduce unplanned stops,Local Idea,Other / Analogue
+Warehouse,scheduling,scheduling,Track and Trace Logistics,Local Idea,Digital Management Tools & Connectivity
+Quality Lab,Quality Lab,Root Cause Process,Track wise,Local Idea,Digital Management Tools & Connectivity
+Large Liquid MFG,KO Batching (BIG),shadowing_0,Training on MII,Local Idea,Digital Ways of Working
+Large Liquid MFG,Liquid Processing,shadowing_1,Training through video,Local Idea,Digital Ways of Working
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_2,Transfer the MII setting knowledge to other person so that Agus can do operation,Local Idea,Other / Analogue
+Warehouse,warehouse material flow 1,material flow 1,Transportation cost saving for external WH,Local Idea,Other / Analogue
+Large Liquid MFG,BB Batching,shadowing_2,Troubleshooting guide,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Truck management system,Local Idea,Digital Ways of Working
+Others / Multiple Areas,IT/OT,IT/OT_System,UNS,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Maintenance,Process,UNS Phase 1,Lighthouse,Digital Management Tools & Connectivity
+Others / Multiple Areas,S Sab E 3&4,OEE top 2,Update instrumentation and control elements of the CIP,Local Idea,Advanced Production Method and Material
+Liquid Filling (Auto),Twin Head Serac,OEE top 1,Upgrade twin head palletizer to handle 5l and 10l drums,Local Idea,Advanced Production Method and Material
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_3,Using pallet lid during wrapping-DRY,Local Idea,Other / Analogue
+Others / Multiple Areas,IT/OT,IT/OT_System,Utilities migration to UNS,Local Idea,Other / Analogue
+Large Liquid MFG,S Sab E 3&4,shadowing_0,Vaccum pump for gums addition,Local Idea,Other / Analogue
+Dry Part (Auto),Filling Dry Part Manufacturing 01,shadowing_3,Vacuum and auto sealer,Local Idea,Advanced Production Method and Material
+Maintenance,DP Manual,shadowing_1,Vacuum lifter on mto box line,Local Idea,Other / Analogue
+Dry Part (Manual),Dry mix Multiple WIP line,shadowing_1,VFFS for PE Bags Formation (WIPs),Local Idea,Advanced Production Method and Material
+Large Liquid MFG,BB Room 10KL tank1,shadowing_2,Viscous Media Transfer Pumps For Oil Blend Preparation,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Qoo,shadowing_0,Visual real-time pump vibration data monitoring,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance PM technician,shadowing_0,Visualize spare parts warehouse management system with barcode application,Local Idea,Digital Management Tools & Connectivity
+Maintenance,Warehouse,Process,VNA Machines Backup,Local Idea,Other / Analogue
+Warehouse,warehouse manager,dilo,Warehouse  Digital Performance Management dash board,Lighthouse,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Warehouse dpm,Local Idea,Digital Ways of Working
+Warehouse,Warehouse,Process,Warehouse Management System,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,Warehouse receipt productivity performance tracker,Lighthouse,Digital Management Tools & Connectivity
+Warehouse,Warehouse,Process,Warehouse Receipt Productivity Performance Tracker (Warehouse DPM),Lighthouse,Digital Management Tools & Connectivity
+Maintenance,Warehouse,Process,Warehouse Receiving Buffer Zone Space,Local Idea,Other / Analogue
+Warehouse,warehouse manager,dilo,Warehouse rough cut capacity,Local Idea,Digital Ways of Working
+Warehouse,warehouse technician,shadowing_0,Warehouse upgrading project (automatic) - phase 1,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse technician,shadowing_0,Warehouse upgrading project (automatic) - phase 2,Local Idea,Advanced Production Method and Material
+Warehouse,Warehouse,Process,Warehouse-Plant rough cut capacity,Local Idea,Digital Ways of Working
+Quality Lab,Quality Lab,Process,Water treated parameters remote measurement,Local Idea,Digital Management Tools & Connectivity
+Maintenance,maintenance technician,dilo,Web portal for external maintenance providers,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Rotary Serac,OEE top 1,Weekly single sourcing of 20l jerry cans to reduce changeover perf loss,Local Idea,Advanced Production Method and Material
+Large Liquid MFG,Sprite Mixing Room,OEE top 3,Weight alarm system,Local Idea,Digital Ways of Working
+Liquid Filling (Auto),CC Drums Liquid Filling,OEE top 1,Weight feedback systems 55 un,Local Idea,Advanced Production Method and Material
+Warehouse,warehouse material flow 1,material flow 1,WH extension for flammable and ambient storage,Local Idea,Other / Analogue
+Warehouse,warehouse manager,dilo,Wh storage capacity increase project,Local Idea,Other / Analogue
+Dry Part (Manual),NEW DRY ROOM,shadowing_0,Wider mesh screen,Local Idea,Other / Analogue
+Dry Part (Manual),Manual Kitting,OEE top 1,WIP Bin Management,Local Idea,Digital Management Tools & Connectivity
+Dry Part (Manual),Manual Kitting,OEE top 1,WIP Bin Tracker,Local Idea,Digital Management Tools & Connectivity
+Liquid Filling (Auto),Beverage Base Liquid Filling,OEE top 2,Zero purge initiative,Local Idea,Advanced Production Method and Material

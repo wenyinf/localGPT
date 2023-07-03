@@ -4,7 +4,7 @@ import os
 from chromadb.config import Settings
 
 # https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/excel.html?highlight=xlsx#microsoft-excel
-from langchain.document_loaders import CSVLoader, PDFMinerLoader, TextLoader, UnstructuredExcelLoader
+from langchain.document_loaders import CSVLoader, PDFMinerLoader, TextLoader
 
 # load_dotenv()
 ROOT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
@@ -12,7 +12,7 @@ ROOT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 # Define the folder for storing database
 SOURCE_DIRECTORY = f"{ROOT_DIRECTORY}/SOURCE_DOCUMENTS"
 
-PERSIST_DIRECTORY = f"{ROOT_DIRECTORY}/DB"
+PERSIST_DIRECTORY = f"{ROOT_DIRECTORY}/db"
 
 # Can be changed to a specific number
 INGEST_THREADS = os.cpu_count() or 8
@@ -28,8 +28,6 @@ DOCUMENT_MAP = {
     ".py": TextLoader,
     ".pdf": PDFMinerLoader,
     ".csv": CSVLoader,
-    ".xls": UnstructuredExcelLoader,
-    ".xlxs": UnstructuredExcelLoader,
 }
 
 # Default Instructor Model
